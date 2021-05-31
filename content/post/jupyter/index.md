@@ -1,14 +1,17 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
-- admin
-tags: []
-categories: []
+  - admin
+lastMod: 2019-09-05T00:00:00Z
+title: Cara mencari burung untuk pemula
+subtitle: Mempelajari bagaimana caranya seorang pemula bisa mencari burung
+  sendiri. Kemudian menangkap burung dengan berbagai metode.
+date: 2019-02-05T00:00:00Z
+tags:
+  - CaraMencariBurung
+categories:
+  - Hewan
 projects: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
 image:
   caption: ""
   focal_point: ""
